@@ -1,0 +1,1 @@
+This is a repository made in order to manage the README of [MBATech-NMIMS-2021](https://github.com/MBATech-NMIMS-2021).
