@@ -11,4 +11,4 @@ This is an organization made for MBATech, [NMIMS](https://nmims.edu), Indore com
 ---
 
 - C++ taught by [Dr. Prachi Gharpure](https://www.linkedin.com/in/dr-prachi-gharpure-75a67a8/?originalSubdomain=in): [https://github.com/MBATech-NMIMS-2021/CPP](https://github.com/MBATech-NMIMS-2021/CPP)
-- Data structures and algorithms taught by [Mrs Avani Jain](https://www.linkedin.com/in/avani-jain-52a190a8/)
+- Data structures and algorithms taught by [Mrs Avani Jain](https://www.linkedin.com/in/avani-jain-52a190a8/): [https://github.com/MBATech-NMIMS-2021/DSA](https://github.com/MBATech-NMIMS-2021/DSA)
